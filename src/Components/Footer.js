@@ -52,7 +52,7 @@ const Footer = () => {
                 height="20"
                 fill="currentColor"
                 class="text-xl transition-colors duration-200 hover:text-blue-700 "
-                // className="flex flex-col items-center rounded-2xl p-6"
+
                 viewBox="0 0 1792 1792"
                 xmlns="http://www.w3.org/2000/svg"
               >
