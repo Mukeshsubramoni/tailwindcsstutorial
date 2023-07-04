@@ -1,6 +1,6 @@
 import React from "react";
 import Divider from "./Divider";
-
+//footer
 const Footer = () => {
   return (
     <div className="w-5/6 mx-auto">
